@@ -1,0 +1,67 @@
+body {
+    margin:0;
+    padding:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(120deg, #5C9BF8, #E765F5);
+    position:relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+/* Inside Login Page */
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background: linear-gradient(120deg, #4d6080, #4c374e);
+    border-radius: 10px;
+}
+
+.name {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.nickname {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.cmsc-subject {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.ge {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.prog-lang {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.food {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 2px 0;
+    border-bottom: 1px solid silver;
+}
+
+.text {
+    font-size: 25px;
+}
