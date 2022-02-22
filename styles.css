@@ -23,45 +23,59 @@ body {
 .name {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .nickname {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .cmsc-subject {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .ge {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .prog-lang {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .food {
     text-align: center;
     color: rgb(255, 255, 255);
-    padding: 0 0 2px 0;
+    padding: 0 0 1px 0;
+    border-bottom: 1px solid silver;
+}
+
+.hobby {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 1px 0;
+    border-bottom: 1px solid silver;
+}
+
+.child-dream {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0 0 1px 0;
     border-bottom: 1px solid silver;
 }
 
 .text {
-    font-size: 25px;
+    font-size: 15px;
 }
